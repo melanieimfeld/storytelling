@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/storymap/static/css/main.cb3be852.chunk.css",
-    "main.js": "/storymap/static/js/main.f07cbecd.chunk.js",
-    "main.js.map": "/storymap/static/js/main.f07cbecd.chunk.js.map",
-    "runtime~main.js": "/storymap/static/js/runtime~main.b720725b.js",
-    "runtime~main.js.map": "/storymap/static/js/runtime~main.b720725b.js.map",
-    "static/js/2.16c588d9.chunk.js": "/storymap/static/js/2.16c588d9.chunk.js",
-    "static/js/2.16c588d9.chunk.js.map": "/storymap/static/js/2.16c588d9.chunk.js.map",
-    "index.html": "/storymap/index.html",
-    "precache-manifest.59a1fb6e6911e3e68c71676536fae083.js": "/storymap/precache-manifest.59a1fb6e6911e3e68c71676536fae083.js",
-    "service-worker.js": "/storymap/service-worker.js",
-    "static/css/main.cb3be852.chunk.css.map": "/storymap/static/css/main.cb3be852.chunk.css.map"
+    "main.css": "/storytelling/static/css/main.cb3be852.chunk.css",
+    "main.js": "/storytelling/static/js/main.45d75598.chunk.js",
+    "main.js.map": "/storytelling/static/js/main.45d75598.chunk.js.map",
+    "runtime~main.js": "/storytelling/static/js/runtime~main.094b01d6.js",
+    "runtime~main.js.map": "/storytelling/static/js/runtime~main.094b01d6.js.map",
+    "static/js/2.16c588d9.chunk.js": "/storytelling/static/js/2.16c588d9.chunk.js",
+    "static/js/2.16c588d9.chunk.js.map": "/storytelling/static/js/2.16c588d9.chunk.js.map",
+    "index.html": "/storytelling/index.html",
+    "precache-manifest.de9f184c35c4007ff27bee64a8e0c4b2.js": "/storytelling/precache-manifest.de9f184c35c4007ff27bee64a8e0c4b2.js",
+    "service-worker.js": "/storytelling/service-worker.js",
+    "static/css/main.cb3be852.chunk.css.map": "/storytelling/static/css/main.cb3be852.chunk.css.map"
   }
 }
